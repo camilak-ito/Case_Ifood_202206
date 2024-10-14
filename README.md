@@ -2,4 +2,4 @@
 ### Camila Kaori Ito
 Data: 06/06/2022
 
--  [Apresentação]()
+-  [Apresentação](./case_Camila_Ito.pdf)
